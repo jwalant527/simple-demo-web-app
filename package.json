@@ -1,0 +1,11 @@
+{
+  "name": "azure-devops-demo",
+  "version": "1.0.0",
+  "description": "A simple web application for Azure DevOps demo",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1"
+  }
+}
